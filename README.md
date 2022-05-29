@@ -17,10 +17,10 @@
 回顾数学建模中最基本的数学知识，建立起理论-实战的翻译思维，打破**说啥啥都懂，用啥啥不会**的困境！
 
 ## 📆课程安排
-1. 动手学**高等数学 ➡️ [Sympy、Scipy、Matplolib]**
+1. 动手学**高等数学 ➡️ [Sympy、Scipy、Matplotlib]**
 2. 动手学**线性代数 ➡️ [Numpy]**
-3. 动手学**概率论与数理统计 ➡️ [Sympy、Scipy、Matplolib]**
-4. 动手学**随机过程 ➡️ [Scipy、Matplolib]**
+3. 动手学**概率论与数理统计 ➡️ [Sympy、Scipy、Matplotlib]**
+4. 动手学**随机过程 ➡️ [Scipy、Matplotlib]**
 
 ## 🛠️我们将用到的工具
 <img src="https://img.shields.io/badge/Python-3.8-brightgreen"> <img src="https://img.shields.io/badge/Numpy-1.22-brightgreen"> <img src="https://img.shields.io/badge/Scipy-1.8.1-brightgreen"> <img src="https://img.shields.io/badge/Matplotlib-3.5.1-brightgreen">
