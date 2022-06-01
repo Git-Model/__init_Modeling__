@@ -23,8 +23,10 @@
 4. 动手学**随机过程 ➡️ [Scipy、Matplotlib]**
 
 ## 🛠️我们将用到的工具
+<p align='center'>
 <img src="https://img.shields.io/badge/Python-3.8-brightgreen"> <img src="https://img.shields.io/badge/Numpy-1.22-brightgreen"> <img src="https://img.shields.io/badge/Scipy-1.8.1-brightgreen"> <img src="https://img.shields.io/badge/Matplotlib-3.5.1-brightgreen">
-
+</p>
+  
 ## 🧑‍💻贡献者
 ### 🧑‍🔧课程开发
 | 昵称 | 内容           | 联系方式                                  |
@@ -36,4 +38,18 @@
 ### 🏃‍♀️课程运营
 
 ### 🧩改进优化
+
+<h2 align='left'><b>📫 欢迎沟通鸭！</b></h2>
+
+- 📧 **邮箱**：gitmodel@163.com
+- 📺 **bilibili**：[GitModel](https://space.bilibili.com/1051016998)
+
+<h2 align='left'><b>🆕 关注公众号</b></h2>
+<p align='center'>
+    <a href='https://space.bilibili.com/1051016998'>
+        <img src="https://github.com/Git-Model/.github/blob/main/figures/QRCode.jpg" width = "180" height = "180">
+    </a>
+</p>
+
+**我们非常期待有兴趣的你一同加入，我们共同维护国内第一个数学建模开源社区！**
 
