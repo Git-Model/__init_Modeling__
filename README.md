@@ -1,10 +1,6 @@
 # 🇬🇲0️⃣1️⃣0️⃣ - 数学建模的基石
 > 英文名：\_\_init_Modeling\_\_
 
-[<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D1051016998&labelColor=FE7398&logo=bilibili&label=bilibili%20fans&query=%24.data.totalSubs&color=9cf">](https://space.bilibili.com/1051016998)
-<img src="https://img.shields.io/badge/Powered%20by-Python3.8-brightgreen">
-<img src="https://img.shields.io/badge/licence-Apache%202.0-orange">
-
 👋这门课里有非常多你熟悉的老朋友，同时也是令你头疼的最佳损友. 在这里，我们将帮你从编程的角度，重新学习微积分、线性代数、概率论、统计学······
 
 有许多朋友一直在吐槽，我学了一系列模型，基础知识能够娓娓道来，结果到比赛来发现学习和实践的内容难以衔接，压根就不会求解😥
@@ -20,7 +16,6 @@
 1. 动手学**高等数学 ➡️ [Sympy、Scipy、Matplotlib]**
 2. 动手学**线性代数 ➡️ [Numpy]**
 3. 动手学**概率论与数理统计 ➡️ [Sympy、Scipy、Matplotlib]**
-4. 动手学**随机过程 ➡️ [Scipy、Matplotlib]**
 
 ## 🛠️我们将用到的工具
 <p align='center'>
