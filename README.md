@@ -13,9 +13,10 @@
 回顾数学建模中最基本的数学知识，建立起理论-实战的翻译思维，打破**说啥啥都懂，用啥啥不会**的困境！
 
 ## 📆课程安排
-1. 动手学**高等数学 ➡️ [Sympy、Scipy、Matplotlib]**
-2. 动手学**线性代数 ➡️ [Numpy]**
-3. 动手学**概率论与数理统计 ➡️ [Sympy、Scipy、Matplotlib]**
+1. 动手学**高等数学 ➡️ [Sympy、Scipy、Matplotlib]**【3天】
+2. 动手学**线性代数 ➡️ [Numpy]**【3天】
+3. 动手学**概率论 ➡️ [Sympy、Scipy、Matplotlib]**【4天】
+4. 动手学**数理统计 ➡️ [Sympy、Scipy、Matplotlib]**【4天】
 
 ## 🛠️我们将用到的工具
 <p align='center'>
