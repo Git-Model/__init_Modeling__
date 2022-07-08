@@ -1,0 +1,6 @@
+sympy
+scipy
+matplotlib
+scikit-image
+pandas
+baostock
